@@ -19,7 +19,11 @@ Analyze the uploaded exam papers given in the sources and extract questions base
    - For questions with tables, graphs, or any visual data necessary to solve the problem, add a note to check the original paper
    - Example: "Analyze the circuit shown in the figure. (See Spring 2020 Question 2a for the figure)"
    - Example: "Interpret the data presented in the graph. (See Fall 2019 Question 3c for the graph)"
+<<<<<<< HEAD
 7. Implete proper numbering system for the lists (use only integer number system for all heading, subheading, and question list.)
+=======
+7. Implete proper numbering system for the lists (use only non decimal number system for all heading, subheading, and question list.)
+>>>>>>> 2354aac9d855cb3451bb1b5abd5108649adb8d91
 
 ## Output Format
 
