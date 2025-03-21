@@ -1,0 +1,11 @@
+Install the required Dependencies
+
+```bash
+pip install PyPDF2 pytesseract pdf2image pillow requests
+```
+
+Install Tesseract OCR:
+
+Windows: Download from https://github.com/UB-Mannheim/tesseract/wiki
+Linux: sudo apt-get install tesseract-ocr
+Update the config.ini with your NotebookLM API key and correct paths
