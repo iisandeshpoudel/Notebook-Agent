@@ -1,6 +1,6 @@
 Install the required Dependencies
 
-```bash
+```
 pip install PyPDF2 pytesseract pdf2image pillow requests
 ```
 
