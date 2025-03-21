@@ -60,6 +60,7 @@ Preserve the general structure but customize terminology to match the subject:
 - Use the exact chapter names from the syllabus
 - Adjust subsection names to match subject terminology (e.g., "Theoretical Questions" might become "Proofs" for mathematics)
 - Add subject-specific subsections if needed
+- Implete proper numbering system for the lists
 
 ### 4. Classification Rules
 
